@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support"
-date:   2017-06-22 18:08:39 +00:00
+date:   2026-03-17 18:08:39 +00:00
 image: /images/thumbnail_arxiv_vigil.png
 categories: arxiv
 author: "Sarthak Ahuja"
