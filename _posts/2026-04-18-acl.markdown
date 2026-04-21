@@ -6,7 +6,7 @@ image: /images/thumbnail_acl2026.png
 categories: research
 author: "Sarthak Ahuja"
 subtitle: ""
-authors: "Vishaal Kapoor, Mariam Dundua, <strong>Sarthak Ahuja</strong>, Neda Kordjazi, Evren Yortucboylu, Vaibhavi Padala, Derek Ho, Jennifer Whitted, Rebecca Steinert"
+authors: "Vishaal Kapoor, Mariam Dundua, Evren Yortucboylu, <strong>Sarthak Ahuja</strong>, Neda Kordjazi, Yiming Li, Vaibhavi Padala, Derek Ho, Jennifer Whitted, Rebecca Steinert"
 venue: "Association of Computational Linguistics (ACL)"
 poster: 
 paper: https://arxiv.org/abs/2604.05350
