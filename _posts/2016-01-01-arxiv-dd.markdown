@@ -7,7 +7,7 @@ categories: arxiv
 author: "Sarthak Ahuja"
 subtitle: 
 authors: "Anil Sharma, <strong>Sarthak Ahuja</strong>, Mayank Gautam, and Sanjit Kaul"
-venue: "Independent Project"
+venue: arxiv
 paper: https://arxiv.org/abs/2608.04176
 slides: /pdfs/slides_dd.pdf
 dataset: https://www.iiitd.edu.in/~anils/taslp/taslp_distress_detection.html
