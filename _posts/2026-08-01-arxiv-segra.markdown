@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering"
+date:   2026-02-01 00:00:00 +00:00
+image: /images/thumbnail_segra2026.png
+categories: arxiv
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "Saiyue Lyu, Mariam Dundua, Vishaal Kapoor, <strong>Sarthak Ahuja</strong>, Neda Kordjazi, Evren Yortucboylu, Harsh Amin, Rebecca Steinert"
+venue: arxiv
+paper: https://arxiv.org/abs/2607.22713
+course: 
+---
+Enterprise IT support knowledge graphs capture rich relationships among cases, users, devices, symptoms, taxonomic categories, root causes, and historical resolutions. Yet querying them in Gremlin requires knowledge of graph schemas, traversal semantics, edge directionality, and property-graph-specific constraints, making them difficult for non-expert operators to use. We introduce SEGRA, an experience-guided agent for enterprise text-to-Gremlin question answering. SEGRA integrates intent routing, schema- and taxonomy-grounded query generation, multi-shot decomposition, execution-aware verification, and a curriculum-bootstrapped skill library that reuses verified query patterns. On an enterprise IT support benchmark, SEGRA achieves a 7.0× higher mean judge score than backbone-only chain-of-thought prompting. Its skill library further reduces LLM calls by 20% and dollar cost by 18% relative to SEGRA without skills, while preserving answer quality. These results show that schema-grounded agent design and reusable execution experience improve both accuracy and efficiency for enterprise graph QA.
