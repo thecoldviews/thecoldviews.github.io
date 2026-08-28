@@ -3,11 +3,11 @@ layout: post
 title:  "SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering"
 date:   2026-02-01 00:00:00 +00:00
 image: /images/thumbnail_segra2026.png
-categories: arxiv
+categories: research
 author: "Sarthak Ahuja"
 subtitle: 
 authors: "Saiyue Lyu, Mariam Dundua, Vishaal Kapoor, <strong>Sarthak Ahuja</strong>, Neda Kordjazi, Evren Yortucboylu, Harsh Amin, Rebecca Steinert"
-venue: arxiv
+venue: EMNLP 2026
 paper: https://arxiv.org/abs/2607.22713
 course: 
 ---
