@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering"
-date:   2026-02-01 00:00:00 +00:00
+date:   2026-09-01 00:00:00 +00:00
 image: /images/thumbnail_segra2026.png
 categories: research
 author: "Sarthak Ahuja"
