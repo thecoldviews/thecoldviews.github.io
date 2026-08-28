@@ -7,7 +7,7 @@ categories: research
 author: "Sarthak Ahuja"
 subtitle: 
 authors: "Saiyue Lyu, Mariam Dundua, Vishaal Kapoor, <strong>Sarthak Ahuja</strong>, Neda Kordjazi, Evren Yortucboylu, Harsh Amin, Rebecca Steinert"
-venue: EMNLP 2026
+venue: Empirical Methods in Natural Language Processing (EMNLP)
 paper: https://arxiv.org/abs/2607.22713
 course: 
 ---
